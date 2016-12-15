@@ -1,7 +1,4 @@
-/*
-	Comp 2659 Assignment: Missile Command
-	Donovan Paget & Ryan Wright
-*/
+
 #ifndef _MUSIC_H
 #define _MUSIC_H
 

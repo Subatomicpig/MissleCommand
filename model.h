@@ -1,7 +1,4 @@
-/*
-	Comp 2659 Assignment: Missile Command
-	Donovan Paget & Ryan Wright
-*/
+
 #ifndef _MODEL_H
 #define _MODEL_H
 

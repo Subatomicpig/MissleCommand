@@ -1,7 +1,4 @@
-/*
-	Comp 2659 Assignment: Missile Command
-	Donovan Paget & Ryan Wright
-*/
+
 #ifndef _RASTER_H
 #define _RASTER_H
 

@@ -1,7 +1,4 @@
-/*
-	Comp 2659 Assignment: Missile Command
-	Donovan Paget & Ryan Wright
-*/
+
 #include <osbind.h>
 #include "stdio.h"
 #include "sound.h"

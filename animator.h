@@ -1,7 +1,4 @@
-/*
-	Comp 2659 Assignment: Missile Command
-	Donovan Paget & Ryan Wright
-*/
+
 #ifndef _ANIMATOR_H
 #define _ANIMATOR_H
 

@@ -1,7 +1,4 @@
-/*
-	Comp 2659 Assignment: Missile Command
-	Donovan Paget & Ryan Wright
-*/
+
 #include "raster.h"
 #include "model.h"
 #include "clear_qk.h"
