@@ -21,7 +21,10 @@ A game made for the atari 2600 written in c to run the STEEM emulator is require
 
 
 
-#unimplemented features#
+###unimplemented features
 Score system - the system is in place it does not display properly ran out of time creating bitmaps to display score 
 Title Screen - the bitmaps have to be created
 Multiplayer - is prototyped but never finished
+
+
+###PS Turn down you sound the steem emulator sounds are terrible
